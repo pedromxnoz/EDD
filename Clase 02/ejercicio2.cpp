@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-//Lea un numero e indique si es par o no.
+//Lea un numero e indique si es par o no. 
 
 int main(){
 	int num;
