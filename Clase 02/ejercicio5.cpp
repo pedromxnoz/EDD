@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-// Pedro Munoz - 20313833418
-
 // Busque todos los posibles divisores de un numero.
 
 int main(){
