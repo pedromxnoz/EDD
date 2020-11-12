@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-// Pedro Munoz - 20313833418
-
 //Leer tres numeros y escribir el mayor de los tres.
 
 int main(){
