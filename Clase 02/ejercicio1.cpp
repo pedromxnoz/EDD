@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Lea dos numeros y que escriba el mayor de los dos.
+// Lea dos numeros y que escriba el mayor de los dos. 
 
 int main(){
 	int num1, num2;
