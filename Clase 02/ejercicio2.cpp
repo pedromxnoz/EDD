@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-// Pedro Munoz - 20313833418
-
 //Lea un numero e indique si es par o no.
 
 int main(){
