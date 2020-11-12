@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-// Pedro Munoz - 20313833418
-
 // Lea dos numeros y que escriba el mayor de los dos.
 
 int main(){
