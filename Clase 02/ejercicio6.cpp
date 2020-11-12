@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-// Pedro Munoz - 20313833418
-
 // Indique si un numero es primo o no.
 
 int main(){
