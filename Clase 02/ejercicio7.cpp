@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-// Pedro Munoz - 20313833418
-
 // Cree un programa que lea una oración por STDIN
 // y la convierta a mayúsculas.
 
