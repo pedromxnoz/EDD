@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-// Pedro Munoz - 20313833418
-
 // Lea números enteros indefinidamente hasta que llegue el 
 // numero cero y luego escriba la suma de todos ellos.
 
