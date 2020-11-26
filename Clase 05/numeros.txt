@@ -1,0 +1,42 @@
+El siguiente documento presentara los numeros de data.dat
+viendo si son numeros pares/impares y primo/no primo.
+
+//-----------------------------------//
+
+El numero 2 es: Par - Primo
+
+El numero 1 es: Impar - Primo
+
+El numero 5 es: Impar - Primo
+
+El numero 7 es: Impar - Primo
+
+El numero 23 es: Impar - Primo
+
+El numero 865 es: Impar - No Primo
+
+El numero 21 es: Impar - No Primo
+
+El numero 675 es: Impar - No Primo
+
+El numero 6 es: Par - No Primo
+
+El numero 3 es: Impar - Primo
+
+El numero 1 es: Impar - Primo
+
+El numero 23 es: Impar - Primo
+
+El numero 76 es: Par - No Primo
+
+El numero 98 es: Par - No Primo
+
+El numero 45 es: Impar - No Primo
+
+El numero 23 es: Impar - Primo
+
+El numero 7 es: Impar - Primo
+
+El numero 11 es: Impar - Primo
+
+El numero 13 es: Impar - Primo
